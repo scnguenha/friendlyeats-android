@@ -32,6 +32,8 @@ import com.google.firebase.example.fireeats.util.RestaurantUtil;
 import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.Query;
 
+import java.time.Instant;
+
 import me.zhanghai.android.materialratingbar.MaterialRatingBar;
 
 /**
